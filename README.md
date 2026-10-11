@@ -17,8 +17,4 @@ This project automates the structural analysis of small molecules by looping thr
 - **RDKit** (Cheminformatics & Molecular Processing)
 - **Pandas** (Data Manipulation & Analysis)
 
-## Quick Start
-1. Clone the repository or open the notebook in Google Colab.
-2. Install the required dependencies:
-   ```bash
-   pip install rdkit pandas
+
